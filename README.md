@@ -1,2 +1,8 @@
 # fcc-tribute-page
-I did this project as part of responsive web design on the freeCodeCamp, the condition to claim the course certificate is to build 5 simple projects and this is one of them to make a tribute page.
+**Project within:** Responsive web design certification by FreeCodeCamp [View Certification]() 
+
+**Objective:** Build a tribute-page 
+
+**Requirements:** [View Requirements](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)  
+
+**Solution Link:** [Live Demo]()
