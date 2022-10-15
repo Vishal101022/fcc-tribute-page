@@ -77,6 +77,8 @@ header > p {
     display: block;
     max-width: 100%;
     height: auto;
+    border-radius: 10px;
+    filter: grayscale(100%);
 }
 #img-caption {
     display: block;
@@ -113,6 +115,8 @@ header > p {
 .sm-content li {
     line-height: 1.5;
     padding: 8px 0;
+    letter-spacing: 0.2px;
+    list-style: none;
 }
 .sm-content li span {
     margin: auto;
@@ -125,14 +129,14 @@ header > p {
     cursor: pointer;
     padding: 8px 24px;
     margin-top: 10px;
-    font-size: 2rem;
+    font-size: 3rem;
     background-color: var(--gray200);
     color: var(--text-dark-color);
 
 }
 .sm-btn::after {
     content: "+";
-    font-size: 3rem;
+    font-size: rem;
     transition: 0.30s;
   }
 .sm-btn:hover {
@@ -154,6 +158,14 @@ details[open]  > .sm-btn::after{
     color: #1473e8;
     font-size: 2rem;
   }
-  i {
-    font-style:unset;
-  }
+ .film-name {
+    font-weight: 500;
+    font-style: italic;
+ }
+ .date {
+    font-weight: 500;
+ }
+ .fa-solid {
+    margin:auto;
+    padding-right:10px;
+ }
