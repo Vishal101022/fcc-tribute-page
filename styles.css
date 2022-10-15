@@ -169,3 +169,6 @@ details[open]  > .sm-btn::after{
     margin:auto;
     padding-right:10px;
  }
+ .sad {
+    filter: grayscale(100%);
+ }
