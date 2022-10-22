@@ -1,5 +1,5 @@
 # fcc-tribute-page
-**Project within:** Responsive web design certification by FreeCodeCamp [View Certification]() 
+**Project within:** Responsive web design by FreeCodeCamp 
 
 **Objective:** Build a tribute-page 
 
